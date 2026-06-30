@@ -1,21 +1,19 @@
 # Olá, eu sou a Marjorie! 👋🌸✨
 
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+> 🎓 **Faculdade:** Ciência de Dados e Inteligência Artificial  
+> 💻 **Foco Atual:** Desenvolvimento em Python & Integração de APIs  
+> 🌱 **Propósito:** Alinhar Tecnologia Sustentável com Impacto Social  
 
-Bem-vinda ao meu cantinho no GitHub! Sou estudante de **Ciência de Dados e Inteligência Artificial** e estou iniciando minha jornada no mundo da programação. Acredito que a tecnologia é uma ferramenta maravilhosa para cuidar do nosso planeta e gerar impacto social positivo na vida das pessoas. 🌍💖
+Bem-vinda ao meu cantinho no GitHub! Sou graduanda em **Ciência de Dados e IA** e estou iniciando a minha jornada na programação. Acredito de todo o coração que as linhas de código podem ser usadas como ferramentas para cuidar do nosso planeta e gerar um impacto positivo na vida das pessoas. 🌍💖
 
 ---
 
 ### 🌟 Sobre Mim & Meu Propósito
 
 - 🎓 Graduanda em **Ciência de Dados e IA**, apaixonada por descobrir o poder dos dados.
-- 🐍 Estudando lógica de programação e desenvolvimento de **APIs com Python**.
-- 🌱 Entusiasta de **Green IT** (Tecnologia Sustentável), buscando alinhar linhas de código com a preservação ambiental.
-- ⛪ Cristã, motivada pelo desejo de usar meus talentos e o conhecimento técnico para servir ao próximo e fazer o bem.
+- 💻 Estudando lógica de programação e desenvolvimento de **APIs com Python**.
+- 🌱 Entusiasta de **Green IT** (Tecnologia Sustentável), buscando alinhar tecnologia e preservação ambiental.
+- ⛪ Cristã, motivada pelo desejo de usar meus talentos para servir ao próximo e fazer o bem.
 - 💬 Pergunte-me sobre: Minha transição para a tecnologia, primeiros passos em Python ou ideias de projetos sociais!
 
 ---
@@ -24,14 +22,10 @@ Bem-vinda ao meu cantinho no GitHub! Sou estudante de **Ciência de Dados e Inte
 
 Aqui estão as tecnologias e ferramentas que estou aprendendo a dominar para construir soluções inteligentes:
 
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Google Gemini" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-  <img src="https://shields.io" alt="VS Code" />
-</p>
-
+* 🎀 **Linguagem Principal:** `Python 3` ✨
+* 🌟 **Modelos de IA:** `Google Gemini API` 🧠
+* 📂 **Controle de Versão:** `Git` & `GitHub` 🐙
+* 💻 **Editor de Código:** `VS Code` ⚡
 ---
 
 ### 📌 Ideias de Projetos que Quero Desenvolver
@@ -39,7 +33,10 @@ Aqui estão as tecnologias e ferramentas que estou aprendendo a dominar para con
 Como meu foco é conectar dados, APIs e impacto positivo, aqui estão alguns projetos que pretendo tirar do papel logo mais:
 * 📉 **EcoAPI:** Uma API em Python para ajudar a Educação Ambiental em escolas públicas.
 * 🤝 **Assistente Solidário:** Chatbots (como o que fizemos com o Google AI) para ajudar ONGs, escolas e projetos sociais com reciclagem e sustentabilidade.
-
+  
+<p align="center">
+  <i>"Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos." — Provérbios 16:3</i> 📖✨
+</p>
 ---
 
 ### 📈 Minhas Estatísticas de Código

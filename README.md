@@ -39,7 +39,7 @@ Aqui estão as tecnologias e ferramentas que estou aprendendo a dominar para con
 
 Como meu foco é conectar dados, APIs e impacto positivo, aqui estão alguns projetos que pretendo tirar do papel logo mais:
 * 📉 **EcoAPI:** Uma API em Python para ajudar a Educação Ambiental em escolas públicas.
-* 🤝 **Assistente Solidário:** Chatbots (como o que fizemos com o Google AI) para ajudar ONGs, escolas e projetos sociais com reciclagem e sustentabilidade.
+* 🤝 **Assistente Solidário:** Chatbots (como o que fizemos com o Google AI) para ajudar ONGs, escolas e projetos sociais com reciclagem, impacto social e sustentabilidade.
   
 
 

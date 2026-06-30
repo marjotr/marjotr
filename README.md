@@ -26,6 +26,13 @@ Aqui estão as tecnologias e ferramentas que estou aprendendo a dominar para con
 * 🌟 **Modelos de IA:** `Google Gemini API` 🧠
 * 📂 **Controle de Versão:** `Git` & `GitHub` 🐙
 * 💻 **Editor de Código:** `VS Code` ⚡
+  
+---
+
+<p align="center">
+  <i>"Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos." — Provérbios 16:3</i> 📖✨
+</p>
+
 ---
 
 ### 📌 Ideias de Projetos que Quero Desenvolver
@@ -34,16 +41,7 @@ Como meu foco é conectar dados, APIs e impacto positivo, aqui estão alguns pro
 * 📉 **EcoAPI:** Uma API em Python para ajudar a Educação Ambiental em escolas públicas.
 * 🤝 **Assistente Solidário:** Chatbots (como o que fizemos com o Google AI) para ajudar ONGs, escolas e projetos sociais com reciclagem e sustentabilidade.
   
-<p align="center">
-  <i>"Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos." — Provérbios 16:3</i> 📖✨
-</p>
----
 
-### 📈 Minhas Estatísticas de Código
-Substitua `marjotr` pelo seu nome de usuário do GitHub para ver seus gráficos em tons de rosa e pastel:
-<p align="center">
-  <img height="180" src="https://vercel.app" />
-  <img height="180" src="https://vercel.app" />
-</p>
+
 
 <p align="center"><i>"Tudo o que fizerem, façam de todo o coração, como para o Senhor..." - Colossenses 3:23</i> ✨🌻</p>

@@ -43,7 +43,7 @@ Como meu foco é conectar dados, APIs e impacto positivo, aqui estão alguns pro
 ---
 
 ### 📈 Minhas Estatísticas de Código
-
+Substitua `marjotr` pelo seu nome de usuário do GitHub para ver seus gráficos em tons de rosa e pastel:
 <p align="center">
   <img height="180" src="https://vercel.app" />
   <img height="180" src="https://vercel.app" />
